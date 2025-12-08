@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <table border="0">
   <tr>
     <td><img align="center" src="https://readmestats.999857.xyz/api?username=drmckay&show_icons=true&line_height=33&count_private=true&theme=vue-dark" alt="drmckay's GitHub Stats" /></td>
-    <td><img align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=mgeeky&&hide=cmake&langs_count=5&line_height=35&theme=vue-dark" /></td>
+    <!--<td><img align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=mgeeky&&hide=cmake&langs_count=5&line_height=35&theme=vue-dark" /></td>-->
   </tr>
 </table>
 
